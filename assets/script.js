@@ -664,4 +664,5 @@ var giphy = {
         "msg": "OK",
         "response_id": "5ab90ae5cd1706469bbc2986971746648406c966"
     }
+    
  }
